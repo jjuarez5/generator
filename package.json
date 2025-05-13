@@ -1,0 +1,17 @@
+{
+  "name": "generator-reactmultipage",
+  "version": "1.0.0",
+  "description": "Scaffold a React + Tailwind website",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "main": "generators/app/index.js",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.9.0"
+  },
+  "author": "Julio Juarez",
+  "license": "MIT"
+}
